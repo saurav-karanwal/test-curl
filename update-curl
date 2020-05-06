@@ -22,3 +22,6 @@ sudo make install
 # location caches ("shared library cache")
 sudo ldconfig (This step is manadatory otherwise libraries won't link up)
 sskskkmck
+=======
+Saurav....
+ok
